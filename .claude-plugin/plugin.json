@@ -1,0 +1,5 @@
+{
+  "name": "task-tree",
+  "version": "0.1.1",
+  "description": "A pane showing the orchestrated job tree from ~/.claude/plans/tasks.json (any computer): done, running, left, with time, tokens and weekly-limit use"
+}

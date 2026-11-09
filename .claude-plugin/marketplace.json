@@ -1,0 +1,7 @@
+{
+  "name": "task-tree",
+  "owner": { "name": "RosesAndViolets" },
+  "plugins": [
+    { "name": "task-tree", "source": "./", "description": "A pane showing a job tree from ~/.claude/plans/tasks.json: done, running, left, with time and tokens" }
+  ]
+}
